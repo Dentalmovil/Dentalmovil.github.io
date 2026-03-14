@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Snapshots de desarrollo (los que vimos en rojo antes)
 .snapshots/
 
@@ -13,3 +14,10 @@ Thumbs.db
 # Archivos temporales
 *.tmp
 *.swp
+=======
+.snapshots/
+.vscode/
+.history/
+*.log
+.DS_Store
+>>>>>>> 19f0015 (Agregar .gitignore para limpiar el repositorio)
