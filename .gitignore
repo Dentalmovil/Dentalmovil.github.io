@@ -1,0 +1,15 @@
+# Snapshots de desarrollo (los que vimos en rojo antes)
+.snapshots/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de editores (Acode, VS Code, etc.)
+.vscode/
+.history/
+*.log
+
+# Archivos temporales
+*.tmp
+*.swp
